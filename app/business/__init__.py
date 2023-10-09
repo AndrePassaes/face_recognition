@@ -1,1 +1,1 @@
-from .services import services
+from .services import classify_image
